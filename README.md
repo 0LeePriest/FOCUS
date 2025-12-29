@@ -1,4 +1,4 @@
-# FOCUS: Fine-Grained Customer-Oriented Sentiment Dialogue Summarization (Chinese Customer Service)
+# FOCUS: A Fine-Grained Customer-Oriented Sentiment Dialogue Summarization Dataset for Chinese Customer Service
 
 Review note: anonymized repository for ACL review.  
 
